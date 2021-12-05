@@ -8,10 +8,10 @@
 **Cách 1:**
 
 Bước 1: Tải source code
->git clone https://github.dev/luccui000/laralivewire
+>git clone https://github.dev/luccui000/lara-pagebuilder
 
 Bước 2: Đi đến thư mục source code vừa tải về
-> cd laralivewire
+> cd lara-pagebuilder
 
 Bước 3: Tiến hành cài đặt
 
